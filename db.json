@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Otes Goane",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Esmaria Eringey",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Kingston Bockings",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Paula Hoggan",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Heidi Dalton",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Bethanne Vears",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Morgan Packham",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Lelia Withringten",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Gavin Spilsburie",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Vittorio Vowells",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Eulalie Slyford",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Quintin Bestwick",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Shelley Coggan",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Ferd Swaffer",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Kerry Gallehawk",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Karee Limbourne",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Barbi Kretchmer",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Patrice M'Chirrie",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Chastity Stollenbecker",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Othilia Oxe",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Merilee Sayward",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Early O'Nion",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Alexei Molineux",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Trudi Bloodworthe",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Dewain Pleming",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Imogene Cassam",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Dinah Aliberti",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Gizela Ferry",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Lin Locock",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Ammamaria Treverton",
+  "gender": "Female"
+}]
+}
